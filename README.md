@@ -18,7 +18,7 @@
 
  
 
-   <img alt="License" src="https://img.shields.io/github/license/lildix/brute-csrf">
+   <img alt="License" src="https://img.shields.io/github/license/0xdix/brute-csrf">
 
 
 
@@ -40,7 +40,7 @@
 
 # Clone this repository
 
-$ git clone git@github.com:lildix/brute-csrf.git
+$ git clone git@github.com:0xdix/brute-csrf.git
 
 
 
